@@ -28,7 +28,7 @@ body {
     background-color: #1d1d1d;
     margin: 2px;
     box-shadow: 0 0 2px #000;
-    transition: 20s ease;
+    transition: 5s ease;
     border-radius: 50%;
     /* z-index: 100; */
 }
